@@ -5,7 +5,7 @@ import { AuthContext } from '@site/src/components/AuthContext';
 import { getSharedOriginalContent, setSharedOriginalContent } from './TranslationControl';
 import styles from './ContentControls.module.css';
 
-const API_URL = 'https://web-production-0039.up.railway.app/';
+const API_URL = 'https://web-production-0039.up.railway.app';
 const API_KEY = 'shumaila1234'
 
 // Cache for personalized content per page + user background
