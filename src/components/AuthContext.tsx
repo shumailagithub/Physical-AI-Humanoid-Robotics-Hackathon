@@ -4,7 +4,7 @@ import useIsBrowser from '@docusaurus/useIsBrowser';
 import { JSX } from 'react/jsx-runtime';
 
 // API Configuration
-const API_URL = 'web-production-0039.up.railway.app';
+const API_URL = 'https://web-production-0039.up.railway.app';
 const API_KEY = 'shumaila1234'
 // Helper function for mobile-friendly fetch with timeout
 async function fetchWithTimeout(
