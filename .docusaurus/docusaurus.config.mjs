@@ -7,9 +7,9 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Bridging the gap between the digital brain and the physical body",
   "favicon": "img/favicon.ico",
-  "url": "https://github.com/BismaYousuf",
+  "url": "https://github.com/shumailagithub",
   "baseUrl": "/physical-ai-and-humanoid-robotics/",
-  "organizationName": "Bisma Yousuf",
+  "organizationName": "Shumaila Gulfam",
   "projectName": "physical-ai-and-humanoid-robotics",
   "onBrokenLinks": "warn",
   "i18n": {
@@ -30,7 +30,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/BismaYousuf"
+          "editUrl": "https://github.com/shumailagithub"
         },
         "blog": false,
         "theme": {
@@ -83,7 +83,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/BismaYousuf",
+          "href": "https://github.com/shumailagithub",
           "label": "GitHub",
           "position": "right"
         }
@@ -110,12 +110,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Bisma Yousuf GitHub",
-              "href": "https://github.com/BismaYousuf"
+              "label": "Shumaila Gulfam GitHub",
+              "href": "https://github.com/shumailagithub"
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/bisma-yousuf-52572b2b4/"
+              "href": "https://www.linkedin.com/in/shumaila-gulfam-527818386/"
             }
           ]
         },
@@ -124,7 +124,7 @@ export default {
           "items": [
             {
               "label": "GitHub Repository",
-              "href": "https://github.com/BismaYousuf"
+              "href": "https://github.com/shumailagithub"
             }
           ]
         }
